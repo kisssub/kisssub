@@ -1,2 +1,1 @@
-# message-board
-The message-board for kisssub.
+This REPO is just a placeholder, please go to the ISSUE section to post disscussions.
